@@ -1,0 +1,53 @@
+.borderless.top.menu {
+  background-color: #ffffff;
+  border: none;
+  box-shadow: none;
+ margin-bottom: auto;
+}
+
+.image.item{
+  height: 40px;
+  width: 240px;
+  margin-left: 20%;
+}
+.img-background {
+  background: url("https://res.cloudinary.com/reformation/image/upload/q_auto:eco/c_scale,w_auto:breakpoints_100_2560_9_20:2810/v1/prod/media/W1siZiIsIjIwMTkvMDIvMTkvMTcvMzgvNTgvZmM0NTU2ZGUtZTc3ZC00ZGJlLWE1ZTktMTlkNDBlMDdhMmY2L3NpY2lsaWEtZHJlc3MtY2hlbHNlYS1naXJsLmpwZyJdXQ/sicilia-dress-chelsea-girl.jpg")no-repeat center center;
+  background-size: cover;
+  height: 110%;
+  width: 100%;
+}
+
+.text1 {
+  font-size: 27px;
+  vertical-align: middle;
+  margin-left: 41.5%;
+  padding-top: 30%;
+  color: white;
+}
+
+.text2 {
+  font-size: 20px;
+  vertical-align: middle;
+  margin-left: 39%;
+  padding-top: 1px;
+  color: white;
+}
+.text3 {
+  padding-top: 150px;
+}
+
+hr {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.second.img-background {
+  background-image: url(https://res.cloudinary.com/reformation/image/upload/q_auto:eco/c_scale,w_auto:breakpoints_100_2560_9_20:2810/v1/prod/media/W1siZiIsIjIwMTkvMDIvMDgvMTYvMzEvNDIvNGEwY2E3MGEtMGFlNy00ODkyLTk0ZDItMDE5MjQyYWY0MTRlL3dlLWFyZS1yZWZvcm1hdGlvbi5qcGciXV0/we-are-reformation.jpg);
+  background-size: cover;
+  height: 110%;
+  width: 100%;
+}
+
+.text4 {
+  margin-left: 50px;
+}
+
